@@ -4,7 +4,7 @@
 "This isn't a copy of exercise1.md"\
 end quote
 
-[link zum eigentlichen README](README-Lamprecht-Benjamin.md)\
+[link zum eigentlichen README](README-Lamprecht-Benjamin.md)
 
 Git Command   | Explanation
 ------------- | -------------
