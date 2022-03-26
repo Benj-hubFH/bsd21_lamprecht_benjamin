@@ -37,3 +37,8 @@ TODO:
 
 ## License
 I literally don't want to be associated with that thing. It's your problem now.
+
+## Author
+[Benjamin Lamprecht, Benj-hubFH](https://github.com/Benj-hubFH/bsd21_lamprecht_benjamin)\
+Educational institution:
+[Campus02](https://www.campus02.at/)
