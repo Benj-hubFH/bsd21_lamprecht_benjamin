@@ -10,4 +10,7 @@
 8. Target Folder got created by first run\
 ![new Folder](targetFolder.png)
 9. pom.xml updated with new plugin
+10. mvn compile\
+![mvn compile](mvnCompile.png)
+11. finalize
 
