@@ -20,6 +20,6 @@ wäre er zweite absatz
 aber das war doch ein quote laut tutorial\
 egal es sind absätze drin
 
-[link zum eigentlichen README](README-Lamprecht-Benjamin.md)\
+[link zum eigentlichen README](README.md)\
 *und gleich das foto darunter*\
 ![hangman](index.jpg)\
