@@ -12,7 +12,7 @@
 9. pom.xml updated with new plugin
 10. mvn compile\
 ![mvn compile](mvnCompile.png)
-11. first run in cmd
-![firstrun](cmd_firstrun.png)
-12. finalize
+11. first run in cmd\
+12. ![firstrun](cmd_firstrun.png)
+13. finalize
 
