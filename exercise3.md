@@ -15,4 +15,5 @@
 11. first run in cmd\
 ![firstrun](cmd_firstrun.png)
 12. finalize
+13. [link zum eigentlichen README](README.md)
 
