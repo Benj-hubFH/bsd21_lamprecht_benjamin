@@ -13,6 +13,6 @@
 10. mvn compile\
 ![mvn compile](mvnCompile.png)
 11. first run in cmd\
-![firstrun](gitbash_firstrun.png)
+![firstrun](cmd_firstrun.png)
 12. finalize
 
