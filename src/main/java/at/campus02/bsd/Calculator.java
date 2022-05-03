@@ -25,4 +25,14 @@ public class Calculator {
         return number1 * number2;
     }
 
+    public int fakulty(int number, int result) {
+        if (number< 0) {
+            return -1;
+        }
+        if (number == 1){
+            return 0;
+        }
+        return fakulty(number-1, result *= number);
+    }
+
 }

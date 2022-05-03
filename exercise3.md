@@ -8,12 +8,11 @@
 6. calculator Java-Class is created in package
 7. Main-Class created is created in package
 8. Target Folder got created by first run\
-![new Folder](targetFolder.png)
+   ![new Folder](resources/images/targetFolder.png)
 9. pom.xml updated with new plugin
 10. mvn compile\
-![mvn compile](mvnCompile.png)
+    ![mvn compile](resources/images/mvnCompile.png)
 11. first run in cmd\
-![firstrun](cmd_firstrun.png)
+    ![firstrun](resources/images/cmd_firstrun.png)
 12. finalize
 13. [link zum eigentlichen README](README.md)
-
