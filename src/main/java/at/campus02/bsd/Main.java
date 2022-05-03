@@ -10,10 +10,11 @@ public class Main {
         Calculator calculator = new Calculator();
 
         //as visual check for console output
-        System.out.println(calculator.add(1, 1));
-        System.out.println(calculator.minus(1, 1));
-        System.out.println(calculator.multiply(1,1));
-        System.out.println(calculator.multiply(1,1));
+        //System.out.println(calculator.add(1, 1));
+        //System.out.println(calculator.minus(1, 1));
+        //System.out.println(calculator.multiply(1,1));
+        //System.out.println(calculator.divide(1,1));
+        //System.out.println(calculator.faculty(4,1));
 
     }
 }

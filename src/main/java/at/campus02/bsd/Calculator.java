@@ -25,4 +25,10 @@ public class Calculator {
         return number1 * number2;
     }
 
+    public int faculty(int number) {
+        if (number< 2) {
+            return 1;
+        }
+        return faculty(number-1) * number;
+    }
 }
