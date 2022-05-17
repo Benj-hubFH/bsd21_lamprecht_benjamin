@@ -23,11 +23,6 @@ class CalculatorTest {
     }
 
     @Test
-    void minusFailSimulation() {
-        assertEquals(10.0, tester.minus(5.0, 5.0));
-    }
-
-    @Test
     void multiply() {
     }
 

@@ -31,6 +31,6 @@ public class Calculator {
         if (number< 2) {
             return 1;
         }
-        return 0;//faculty(number-1) * number;
+        return faculty(number-1) * number;
     }
 }
