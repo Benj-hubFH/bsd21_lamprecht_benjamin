@@ -38,5 +38,7 @@ class CalculatorTest {
     @Test
     void faculty() {
         assertEquals(24, tester.faculty(4));
+        assertEquals(6, tester.faculty(3));
+        assertEquals(2, tester.faculty(2));
     }
 }
