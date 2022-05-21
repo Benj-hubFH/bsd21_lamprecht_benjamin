@@ -14,4 +14,10 @@
 7. WARN – An event that might possibly lead to an error. 
 8. OFF – No events will be logged.
 
+
+[Tutorial 1](http://makeseleniumeasy.com/2021/03/11/log4j2-tutorial-1-introduction-to-apache-log4j2/)
+[Tutorial 2](http://makeseleniumeasy.com/2021/03/17/log4j2-tutorial-2-creating-log4j2-maven-project-with-default-configuration-file/)
+[Tutorial 3](http://makeseleniumeasy.com/2021/03/24/log4j2-tutorial-3-setup-console-appender-using-xml-configuration-file/)
+[Tutorial 4](http://makeseleniumeasy.com/2021/04/09/log4j2-tutorial-4-print-logs-in-external-file-using-xml-configuration-file-of-log4j2/)
+
 [link zum eigentlichen README](README.md)
