@@ -1,3 +1,9 @@
+# Calculator
+
+in resources use template, configurations should fit for most systems
+
+___
+
 # Hangman
 
 Hangman is a crude programmed game in which you need to find a word or whole sentences by guessing single letters.

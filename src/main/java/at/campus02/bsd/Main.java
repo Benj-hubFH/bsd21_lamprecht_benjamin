@@ -4,8 +4,18 @@ package at.campus02.bsd;/*
  * Last Change: 11.04.2022
  */
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class Main {
+    private static Logger logger = LogManager.getLogger();
     public static void main(String[] args) {
+
+
+
+        logger.error("this is debug");
+        logger.info("this isn't written in console");
+
 
         Calculator calculator = new Calculator();
 
