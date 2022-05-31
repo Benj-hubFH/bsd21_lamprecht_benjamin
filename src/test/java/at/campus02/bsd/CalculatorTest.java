@@ -1,5 +1,6 @@
 package at.campus02.bsd;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -39,7 +40,7 @@ class CalculatorTest {
     void divide() {
         logger.debug("division");
         logger.error("zero division");
-        assertThrows(ArithmeticException.class, () -> {
+        Assertions.assertThrows(ArithmeticException.class, () -> {
             tester.divide(5, 0);
         });
     }
